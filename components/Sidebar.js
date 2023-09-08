@@ -48,6 +48,7 @@ export default function Sidebar() {
     <Flex
       // bg="blue.100"
       w="50%"
+      h="inherit"
       borderEnd="1px solid" borderColor="gray.200"
       direction="column"
     >
