@@ -18,8 +18,9 @@ function App({ Component, pageProps }) {
 
   if (!user) {
     return (
+      // Site başlangıç noktası
       <ChakraProvider>
-        <Login />
+        <Login /> 
       </ChakraProvider>
     )
   }
