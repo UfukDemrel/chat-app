@@ -13,8 +13,6 @@ export default function Login() {
         <title>Login</title>
       </Head>
 
-      <div className="title">Chatt-App</div>
-
       <Center h="100vh">
 
         <Stack
